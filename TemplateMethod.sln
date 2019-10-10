@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{B1499CFA-2796-459A-9B2D-5F3DE43ED8FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempleteMethodDataAccess", "TempleteMethodDataAccess\TempleteMethodDataAccess.csproj", "{1B06780D-707A-45BC-BD7D-16A2D99C558C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B1499CFA-2796-459A-9B2D-5F3DE43ED8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1499CFA-2796-459A-9B2D-5F3DE43ED8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1499CFA-2796-459A-9B2D-5F3DE43ED8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B06780D-707A-45BC-BD7D-16A2D99C558C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B06780D-707A-45BC-BD7D-16A2D99C558C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B06780D-707A-45BC-BD7D-16A2D99C558C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B06780D-707A-45BC-BD7D-16A2D99C558C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
